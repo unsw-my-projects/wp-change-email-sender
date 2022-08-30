@@ -1,0 +1,6 @@
+{
+	"name": "unsw/wp-change-email-sender",
+	"version": "master",
+	"type": "wordpress-plugin",
+	"license": "UNLICENSED"
+}
